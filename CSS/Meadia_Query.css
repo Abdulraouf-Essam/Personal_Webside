@@ -1,0 +1,226 @@
+@media screen and (max-width: 1300px) {
+  html {
+    font-size: 16px;
+  }
+
+  .card-body h5 {
+    font-size: 1rem;
+  }
+
+  .card-body p {
+    font-size: 0.2rem;
+  }
+
+  .carousel-item img {
+    width        : 14%;
+    margin       : auto;
+    margin-top   : 5%;
+    margin-bottom: 17%;
+  }
+
+  .card-footer a {
+    font-size: 0.8rem;
+  }
+
+  .card-title {
+    font-size: 0.8rem !important;
+  }
+
+  .group {
+    width: 85% !important;
+  }
+
+  .Size {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  html {
+    font-size: 15px;
+  }
+
+  .Size {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  html {
+    font-size: 15px;
+  }
+
+  .Margen-lg {
+    margin: 1.9rem;
+  }
+
+  .carousel-item img {
+    width        : 14%;
+    margin       : auto;
+    margin-top   : 5%;
+    margin-bottom: 16%;
+  }
+
+  .card-title {
+    font-size: 1.5rem !important;
+  }
+
+  .group {
+    width: 100% !important;
+  }
+
+  .Size {
+    font-size: 1rem;
+  }
+
+  .Get-in-Touch i span {
+    font-size: 0.3rem;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  html {
+    font-size: 12px;
+  }
+
+  .carousel-item img {
+    width        : 15%;
+    margin       : auto;
+    margin-top   : 6%;
+    margin-bottom: 18%;
+  }
+
+  .icon-form-div i {
+    font-size: 1.7rem;
+  }
+
+  .Size {
+    font-size: 1.5rem;
+  }
+
+  .Get-in-Touch i span {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  html {
+    font-size: 8px;
+  }
+
+  .card-title {
+    font-size: 2.5rem !important;
+  }
+
+  .icon-form-div i {
+    font-size: 2.5rem;
+  }
+
+  .Size {
+    font-size: 2.5rem;
+  }
+
+  .Get-in-Touch i span {
+    font-size: 1.5rem;
+  }
+
+  .Get-in-Touch i {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .section-3-icon {
+    width : 50px;
+    height: 50px;
+    border: solid 7px white;
+  }
+
+  .section-3-div h3 {
+    font-size: 0.4rem;
+  }
+
+  .carousel-item img {
+    width        : 16%;
+    margin       : auto;
+    margin-top   : 8%;
+    margin-bottom: 20%;
+  }
+
+  .Size {
+    font-size: 2.5rem;
+  }
+
+  .Get-in-Touch i span {
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  html {
+    font-size: 7px;
+  }
+
+  .fa-circle-plus {
+    font-size: 3rem;
+  }
+
+  .carousel-item img {
+    width        : 20%;
+    margin       : auto;
+    margin-top   : 8%;
+    margin-bottom: 23%;
+  }
+
+  .Size {
+    font-size: 2.5rem;
+  }
+
+  .Get-in-Touch i span {
+    font-size: 1rem;
+  }
+
+  .navbar .container {
+    width      : 90%;
+    padding-top: 8px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 5px;
+  }
+
+  .section-3-icon {
+    width : 30px;
+    height: 30px;
+    border: solid 5px white;
+  }
+
+  .section-3-div h3 {
+    font-size: 0.2rem;
+  }
+
+  .fa-circle-plus {
+    font-size: 3rem;
+  }
+
+  .carousel-item img {
+    width        : 20%;
+    margin       : auto;
+    margin-top   : 8%;
+    margin-bottom: 35%;
+  }
+
+  .icon-form-div i {
+    font-size: 3.3rem;
+  }
+
+  .Size {
+    font-size: 3rem;
+  }
+
+  .Get-in-Touch i span {
+    font-size: 0.6rem;
+  }
+}
